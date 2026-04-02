@@ -1,7 +1,3 @@
-Этот проект по анализу данных с eBay — отличный способ показать ваши навыки работы с большими массивами реальных данных (35 000+ строк) и понимание рынка электронной коммерции.
-
-Вот структура README.md, которая подчеркнет вашу экспертность как Data Analyst:
-
 eBay Market Analysis: Gaming Peripherals & External Storage (March 2026)
 📌 Project Overview
 This project provides a deep dive into the e-commerce market for popular gaming peripherals and storage devices. Using a dataset of over 35,000 real eBay listings from March 2026, the analysis focuses on pricing strategies, item conditions, and the correlation between seller reputation and consumer trust.
